@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sarthak-006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sarthak Shilwant
+- 👀 I’m interested in AI, Data Science and ML
+- 🌱 I’m currently learning ML K-means algorithm
+- 💞️ I’m looking to collaborate on AI, Data Science and ML topics
+- 📫 How to reach me 
 
 <!---
 Sarthak-006/Sarthak-006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
