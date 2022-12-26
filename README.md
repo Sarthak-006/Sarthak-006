@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarthak Shilwant
-- 👀 I’m interested in AI, Data Science and ML
+- 👀 I’m interested in Blockchain, AI and Data Science
 - 🌱 I’m currently learning ML K-means algorithm
 - 💞️ I’m looking to collaborate on AI, Data Science and ML topics
 
