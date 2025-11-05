@@ -17,7 +17,8 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/sarthakshilwant) 
-  [![Buy me a coffee]([https://coffee.resmic.com/widget/sarthak-shilwant](https://coffee.resmic.com/embed/sarthak-shilwant))](https://coffee.resmic.com/sarthak-shilwant)
+  [![Buy Me a Coffee](https://img.shields.io/badge/Support%20Me-30363D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://coffee.resmic.com/embed/sarthak-shilwant)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
